@@ -1,20 +1,26 @@
 The Azure Marketplace is like your app store for the cloud. It contains 1000's of pre-configured solutions to help you get going. To learn more about the Azure Marketplace check out [this overview post](https://blogs.msdn.microsoft.com/cdndevs/2016/03/08/what-is-the-azure-marketplace/).
 
-As an early stage tech startup you might be elligable for [BizSpark](https://www.microsoft.com/bizspark) which can provide up to $120,000 in free Azure credits. These credits can be applied to the VMs deployed from the Marketplace. Though if the publisher charges any costs above the base compute cost, you will have to pay for this directly, credits cannot be used in that case. The good news is many solutions in the Marketplace are free!
+As an early stage tech startup you might be eligible  for [BizSpark](https://www.microsoft.com/bizspark) which can provide up to $120,000 in free Azure credits. These credits can be applied to the VMs deployed from the Marketplace. Though if the publisher charges any costs above the base compute cost, you will have to pay for this directly, credits cannot be used in that case. The good news is many solutions in the Marketplace are free!
 
 # Azure Marketplace Startup Toolkit
 
 ## Marketing
 
-###   Website Analytics – Track visits to your website and run A/B test to see which message resonates and generates leads
+### Website Analytics
+
+Track visits to your website and run A/B test to see which message resonates and generates leads
 
 * [Piwik](https://azure.microsoft.com/en-us/marketplace/partners/bitnami/piwik/)
 
-### SEO – Don’t leave your search engine ranking to chance. Check keyword density, saturation and backlinks to ensure you’re found
+### SEO
+
+Don’t leave your search engine ranking to chance. Check keyword density, saturation and backlinks to ensure you’re found
 
 * [SEO Panel](https://azure.microsoft.com/en-us/marketplace/partners/bitnami/seopanel/)
 
-### Content Management – Keep your website updated and relevant using an easy to use CMS
+### Content Management
+
+Keep your website updated and relevant using an easy to use CMS
 
 * [Plone](https://azure.microsoft.com/en-us/marketplace/partners/bitnami/plone/)
 
@@ -38,13 +44,17 @@ As an early stage tech startup you might be elligable for [BizSpark](https://www
 
 * [SiteCake](https://azure.microsoft.com/en-us/marketplace/partners/bitnami/sitecake/)
 
-### Surveys – gather critical feedback quickly to guide your product roadmap
+### Surveys
+
+Gather critical feedback quickly to guide your product roadmap
 
 * [LimeSurvey](https://azure.microsoft.com/en-us/marketplace/partners/bitnami/limesurvey/)
  
 ## Sales
 
-### Customer Relationship Management – track leads and conversation rates to help grow your business and identify sales gaps and efficiencies.
+### Customer Relationship Management
+
+Track leads and conversation rates to help grow your business and identify sales gaps and efficiencies.
 
 * [Zurmo](https://azure.microsoft.com/en-us/marketplace/partners/bitnami/zurmo/)
 
@@ -64,13 +74,17 @@ As an early stage tech startup you might be elligable for [BizSpark](https://www
 
 ## HR
 
-### Resource management – gain insight into employees and track vendors without complicated spreadsheets
+### Resource management
+
+Gain insight into employees and track vendors without complicated spreadsheets
 
 * [Dolibarr](https://azure.microsoft.com/en-us/marketplace/partners/bitnami/dolibarr/)
 
 * [OrangeHRM](https://azure.microsoft.com/en-us/marketplace/partners/bitnami/orangehrm/)
 
-### ERP – Manage your accounting, inventory, invoices, purchase, etc.
+### ERP
+
+Manage your accounting, inventory, invoices, purchase, etc.
 
 * [ERPNext](https://azure.microsoft.com/en-us/marketplace/partners/bitnami/erpnext/)
 
